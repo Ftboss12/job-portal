@@ -30,3 +30,6 @@ const isAuthenticated = async (req, res, next) => {
 }
 
 export default isAuthenticated;
+
+
+// Project Developed By: Ujjwal Singh
