@@ -20,9 +20,7 @@ const HeroSection = () => {
     return (
         <div className="text-center bg-gradient-to-b from-white to-gray-50 py-20">
             <div className="flex flex-col gap-5 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-                <span className="mx-auto px-4 py-2 rounded-full bg-[#4F46E5]/10 text-[#4F46E5] font-medium text-sm">
-                    India&apos;s #1 Job Portal
-                </span>
+               
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">
                     Shape Your Future with the <br />
                     <span className="text-[#4F46E5]">Right Career Move</span>
